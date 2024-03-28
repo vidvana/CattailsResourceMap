@@ -1,0 +1,200 @@
+Shady Corner
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 2, "Valerian": 0, "Winter Blueberries": 0}
+Canyon Plains
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Canyon Ruins
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Flower Plains
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Western Field
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Fallen Giant
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Stones West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Overstones West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Beach West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Walking Trail
+{"Blackberries": 1, "Catnip": 0, "Goldenseal": 1, "Lavender": 0, "Licorice Root": 1, "Marigold": 1, "Raspberries": 1, "Snake Lily": 0, "Valerian": 1, "Winter Blueberries": 1}
+Canyon Prairie
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Canyon Mesas
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest Lake
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Abandoned Cottage
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+The Forest Colony
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest South
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Stones Central
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Overstones Central
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Beach Central
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Graveyard
+{"Blackberries": 1, "Catnip": 0, "Goldenseal": 1, "Lavender": 0, "Licorice Root": 1, "Marigold": 1, "Raspberries": 1, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Canyon Cliffs
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Canyon Creek
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest Eaves
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+The Fairywood
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest Central
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest Southeast
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Stones Bridge
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Delta
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rivermouth
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Cairn Grove
+{"Blackberries": 1, "Catnip": 0, "Goldenseal": 1, "Lavender": 0, "Licorice Root": 1, "Marigold": 1, "Raspberries": 1, "Snake Lily": 0, "Valerian": 1, "Winter Blueberries": 1}
+Oak Wood
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Tomb Creek
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest North
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Woodland Corner
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rushing Rocks
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Stones East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Overstones East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Beach East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+North Plains
+{"Blackberries": 1, "Catnip": 0, "Goldenseal": 1, "Lavender": 0, "Licorice Root": 1, "Marigold": 1, "Raspberries": 2, "Snake Lily": 1, "Valerian": 1, "Winter Blueberries": 1}
+River Corner
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+River Bend
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Forest Outskirts
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Woodland Eyot
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Riverspan
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+South Woodland
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Corner
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Stones South
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Rumbling Overpass
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+The Mountain Domain
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+River Loop
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Central Field
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Central Lake
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Hallowed Garden
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 5, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Sacred Temple
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Orchard
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 1, "Marigold": 1, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+South Moor
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Mossy Field
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Southern Cliffs
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Sentinel Woods
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Lone Sentinel
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Blossom Lake
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Central Bend
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+River Central
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 1, "Valerian": 0, "Winter Blueberries": 0}
+River Islet
+{"Blackberries": 0, "Catnip": 1, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 1, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Wetland Source
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Wetland Border Northwest
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Wetland Border West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Wetland Border Southwest
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland Northwest
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland Corner
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie North
+{"Blackberries": 0, "Catnip": 1, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 2, "Raspberries": 3, "Snake Lily": 1, "Valerian": 0, "Winter Blueberries": 0}
+Prairie Corner
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp Border West
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 1, "Raspberries": 2, "Snake Lily": 0, "Valerian": 1, "Winter Blueberries": 0}
+Wetland Bog
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Weepingroot
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Wetland Outskirts
+{"Blackberries": 1, "Catnip": 1, "Goldenseal": 1, "Lavender": 1, "Licorice Root": 1, "Marigold": 1, "Raspberries": 1, "Snake Lily": 1, "Valerian": 1, "Winter Blueberries": 1}
+Highland North
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland Central
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland South
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie Copse
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 1, "Valerian": 0, "Winter Blueberries": 0}
+Prairie Quarry
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie South
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 1, "Valerian": 0, "Winter Blueberries": 0}
+Sunken Stones
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+The Mystic Colony
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp Lakes
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp South
+{"Blackberries": 2, "Catnip": 2, "Goldenseal": 2, "Lavender": 0, "Licorice Root": 2, "Marigold": 2, "Raspberries": 2, "Snake Lily": 2, "Valerian": 2, "Winter Blueberries": 2}
+Highland Lake
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 2, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Highland Southeast
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie Border North 
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie Border Center
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Prairie Border South
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp Border East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp East
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 1, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp Cliffs
+{"Blackberries": 0, "Catnip": 0, "Goldenseal": 0, "Lavender": 0, "Licorice Root": 0, "Marigold": 0, "Raspberries": 0, "Snake Lily": 0, "Valerian": 0, "Winter Blueberries": 0}
+Swamp Corner
+{"Blackberries": 3, "Catnip": 4, "Goldenseal": 4, "Lavender": 1, "Licorice Root": 4, "Marigold": 4, "Raspberries": 4, "Snake Lily": 4, "Valerian": 4, "Winter Blueberries": 4}
